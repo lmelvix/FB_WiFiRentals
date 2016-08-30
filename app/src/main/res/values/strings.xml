@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wifi Rentals</string>
+    <string name="router_id">Router ID</string>
+    <string name="router_pw">Router Password</string>
+    <string name="user_id">User ID</string>
+    <string name="user_mac">User MAC</string>
+    <string name="addUser">Add User</string>
+    <string name="getName">Get Router Name</string>
+    <string name="username">New User Name</string>
+    <string name="usermobile">New User Mobile Number</string>
+    <string name="update">Update User List</string>
+
+</resources>

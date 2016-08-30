@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "910899210439",
+    "firebase_url": "https://wifirentals.firebaseio.com",
+    "project_id": "wifirentals",
+    "storage_bucket": "wifirentals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910899210439:android:ec6b03f9b545129a",
+        "android_client_info": {
+          "package_name": "com.example.lmelvix.wifirentals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910899210439-k7veek7v9tdhfol7fm6acjb89bn9j0lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwlaoifa5qTkAF-1DNCoILNnDDUaBAIMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
